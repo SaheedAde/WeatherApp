@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97e981d1-ded5-4702-8c96-df7826ff08e9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeatherApp/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeatherApp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#649#690#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weather/templates/weather/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/templates/weather/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+              <folding>
+                <element signature="e#4829#4835#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#g#7;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#g#7;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#g#8;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#g#8;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#g#9;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#g#9;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#g#0;n#g#0;n#g#0;n#g#10;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#g#1;n#g#0;n#g#0;n#g#10;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#1;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#2;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#3;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#4;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#5;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#6;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#7;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#8;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#9;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#g#12;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#1;n#g#12;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#2;n#g#12;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#3;n#g#12;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#g#13;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#1;n#g#13;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#2;n#g#13;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#3;n#g#13;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#25709#25715#0#HTML" expanded="true" />
+                <element signature="e#25715#25721#0#HTML" expanded="true" />
+                <element signature="e#26019#26025#0#HTML" expanded="true" />
+                <element signature="e#26174#26180#0#HTML" expanded="true" />
+                <element signature="e#26180#26186#0#HTML" expanded="true" />
+                <element signature="e#27130#27136#0#HTML" expanded="true" />
+                <element signature="e#27136#27142#0#HTML" expanded="true" />
+                <element signature="e#27435#27441#0#HTML" expanded="true" />
+                <element signature="e#27590#27596#0#HTML" expanded="true" />
+                <element signature="e#27596#27602#0#HTML" expanded="true" />
+                <element signature="e#28547#28553#0#HTML" expanded="true" />
+                <element signature="e#28553#28559#0#HTML" expanded="true" />
+                <element signature="e#28852#28858#0#HTML" expanded="true" />
+                <element signature="e#29007#29013#0#HTML" expanded="true" />
+                <element signature="e#29013#29019#0#HTML" expanded="true" />
+                <element signature="e#29963#29969#0#HTML" expanded="true" />
+                <element signature="e#29969#29975#0#HTML" expanded="true" />
+                <element signature="e#30268#30274#0#HTML" expanded="true" />
+                <element signature="e#30423#30429#0#HTML" expanded="true" />
+                <element signature="e#30429#30435#0#HTML" expanded="true" />
+                <element signature="e#31379#31385#0#HTML" expanded="true" />
+                <element signature="e#31385#31391#0#HTML" expanded="true" />
+                <element signature="e#31684#31690#0#HTML" expanded="true" />
+                <element signature="e#31838#31844#0#HTML" expanded="true" />
+                <element signature="e#31844#31850#0#HTML" expanded="true" />
+                <element signature="e#32794#32800#0#HTML" expanded="true" />
+                <element signature="e#32800#32806#0#HTML" expanded="true" />
+                <element signature="e#33102#33108#0#HTML" expanded="true" />
+                <element signature="e#33257#33263#0#HTML" expanded="true" />
+                <element signature="e#33263#33269#0#HTML" expanded="true" />
+                <element signature="e#34213#34219#0#HTML" expanded="true" />
+                <element signature="e#34219#34225#0#HTML" expanded="true" />
+                <element signature="e#34521#34527#0#HTML" expanded="true" />
+                <element signature="e#34676#34682#0#HTML" expanded="true" />
+                <element signature="e#34682#34688#0#HTML" expanded="true" />
+                <element signature="e#35632#35638#0#HTML" expanded="true" />
+                <element signature="e#35638#35644#0#HTML" expanded="true" />
+                <element signature="e#35937#35943#0#HTML" expanded="true" />
+                <element signature="e#36091#36097#0#HTML" expanded="true" />
+                <element signature="e#36097#36103#0#HTML" expanded="true" />
+                <element signature="e#37047#37053#0#HTML" expanded="true" />
+                <element signature="e#37053#37059#0#HTML" expanded="true" />
+                <element signature="e#37352#37358#0#HTML" expanded="true" />
+                <element signature="e#37506#37512#0#HTML" expanded="true" />
+                <element signature="e#37512#37518#0#HTML" expanded="true" />
+                <element signature="e#38462#38468#0#HTML" expanded="true" />
+                <element signature="e#38468#38474#0#HTML" expanded="true" />
+                <element signature="e#38767#38773#0#HTML" expanded="true" />
+                <element signature="e#38922#38928#0#HTML" expanded="true" />
+                <element signature="e#38928#38934#0#HTML" expanded="true" />
+                <element signature="e#39878#39884#0#HTML" expanded="true" />
+                <element signature="e#39884#39890#0#HTML" expanded="true" />
+                <element signature="e#40183#40189#0#HTML" expanded="true" />
+                <element signature="e#40337#40343#0#HTML" expanded="true" />
+                <element signature="e#40343#40349#0#HTML" expanded="true" />
+                <element signature="e#41293#41299#0#HTML" expanded="true" />
+                <element signature="e#41299#41305#0#HTML" expanded="true" />
+                <element signature="e#41598#41604#0#HTML" expanded="true" />
+                <element signature="e#41752#41758#0#HTML" expanded="true" />
+                <element signature="e#41758#41764#0#HTML" expanded="true" />
+                <element signature="e#42709#42715#0#HTML" expanded="true" />
+                <element signature="e#42715#42721#0#HTML" expanded="true" />
+                <element signature="e#43016#43022#0#HTML" expanded="true" />
+                <element signature="e#43170#43176#0#HTML" expanded="true" />
+                <element signature="e#43176#43182#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#ins#0;n#div#0;n#div#0;n#div#3;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#52670#52676#0#HTML" expanded="true" />
+                <element signature="e#55605#55611#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="e#48#93#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="9" column="82" lean-forward="true" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+              <folding>
+                <element signature="e#47#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="Bootstrap HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WeatherApp/settings.py" />
+        <option value="$PROJECT_DIR$/WeatherApp/urls.py" />
+        <option value="$PROJECT_DIR$/weather/urls.py" />
+        <option value="$PROJECT_DIR$/weather/models.py" />
+        <option value="$PROJECT_DIR$/weather/admin.py" />
+        <option value="$PROJECT_DIR$/weather/forms.py" />
+        <option value="$PROJECT_DIR$/weather/templates/weather/Bootstrap HTML File.html" />
+        <option value="$PROJECT_DIR$/weather/templates/weather/Index1.html" />
+        <option value="$PROJECT_DIR$/weather/views.py" />
+        <option value="$PROJECT_DIR$/weather/templates/weather/test.html" />
+        <option value="$PROJECT_DIR$/weather/templates/weather/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeatherApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeatherApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeatherApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeatherApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeatherApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeatherApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/DjangoVENV/Scripts/python.exe" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Saheed\WeatherApp\weather\static\weather\vendor\bootstrap" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.WeatherApp">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeatherApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeatherApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeatherApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeatherApp" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeatherApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="WeatherApp" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeatherApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeatherApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WeatherApp" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="WeatherApp.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeatherApp" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.WeatherApp" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97e981d1-ded5-4702-8c96-df7826ff08e9" name="Default" comment="" />
+      <created>1532739455611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532739455611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29973474" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3368984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WeatherApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/templates/weather/Bootstrap HTML File.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/templates/weather/Index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/urllib3/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#48#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="9" column="82" lean-forward="true" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/templates/weather/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding>
+            <element signature="e#4829#4835#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#g#7;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#g#7;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#g#8;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#g#8;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#g#9;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#g#9;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#g#0;n#g#0;n#g#0;n#g#10;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#g#1;n#g#0;n#g#0;n#g#10;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#2;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#3;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#4;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#5;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#6;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#7;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#8;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#9;n#g#11;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#g#12;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#g#12;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#2;n#g#12;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#3;n#g#12;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#g#13;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#g#13;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#2;n#g#13;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#3;n#g#13;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#span#0;n#span#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#25709#25715#0#HTML" expanded="true" />
+            <element signature="e#25715#25721#0#HTML" expanded="true" />
+            <element signature="e#26019#26025#0#HTML" expanded="true" />
+            <element signature="e#26174#26180#0#HTML" expanded="true" />
+            <element signature="e#26180#26186#0#HTML" expanded="true" />
+            <element signature="e#27130#27136#0#HTML" expanded="true" />
+            <element signature="e#27136#27142#0#HTML" expanded="true" />
+            <element signature="e#27435#27441#0#HTML" expanded="true" />
+            <element signature="e#27590#27596#0#HTML" expanded="true" />
+            <element signature="e#27596#27602#0#HTML" expanded="true" />
+            <element signature="e#28547#28553#0#HTML" expanded="true" />
+            <element signature="e#28553#28559#0#HTML" expanded="true" />
+            <element signature="e#28852#28858#0#HTML" expanded="true" />
+            <element signature="e#29007#29013#0#HTML" expanded="true" />
+            <element signature="e#29013#29019#0#HTML" expanded="true" />
+            <element signature="e#29963#29969#0#HTML" expanded="true" />
+            <element signature="e#29969#29975#0#HTML" expanded="true" />
+            <element signature="e#30268#30274#0#HTML" expanded="true" />
+            <element signature="e#30423#30429#0#HTML" expanded="true" />
+            <element signature="e#30429#30435#0#HTML" expanded="true" />
+            <element signature="e#31379#31385#0#HTML" expanded="true" />
+            <element signature="e#31385#31391#0#HTML" expanded="true" />
+            <element signature="e#31684#31690#0#HTML" expanded="true" />
+            <element signature="e#31838#31844#0#HTML" expanded="true" />
+            <element signature="e#31844#31850#0#HTML" expanded="true" />
+            <element signature="e#32794#32800#0#HTML" expanded="true" />
+            <element signature="e#32800#32806#0#HTML" expanded="true" />
+            <element signature="e#33102#33108#0#HTML" expanded="true" />
+            <element signature="e#33257#33263#0#HTML" expanded="true" />
+            <element signature="e#33263#33269#0#HTML" expanded="true" />
+            <element signature="e#34213#34219#0#HTML" expanded="true" />
+            <element signature="e#34219#34225#0#HTML" expanded="true" />
+            <element signature="e#34521#34527#0#HTML" expanded="true" />
+            <element signature="e#34676#34682#0#HTML" expanded="true" />
+            <element signature="e#34682#34688#0#HTML" expanded="true" />
+            <element signature="e#35632#35638#0#HTML" expanded="true" />
+            <element signature="e#35638#35644#0#HTML" expanded="true" />
+            <element signature="e#35937#35943#0#HTML" expanded="true" />
+            <element signature="e#36091#36097#0#HTML" expanded="true" />
+            <element signature="e#36097#36103#0#HTML" expanded="true" />
+            <element signature="e#37047#37053#0#HTML" expanded="true" />
+            <element signature="e#37053#37059#0#HTML" expanded="true" />
+            <element signature="e#37352#37358#0#HTML" expanded="true" />
+            <element signature="e#37506#37512#0#HTML" expanded="true" />
+            <element signature="e#37512#37518#0#HTML" expanded="true" />
+            <element signature="e#38462#38468#0#HTML" expanded="true" />
+            <element signature="e#38468#38474#0#HTML" expanded="true" />
+            <element signature="e#38767#38773#0#HTML" expanded="true" />
+            <element signature="e#38922#38928#0#HTML" expanded="true" />
+            <element signature="e#38928#38934#0#HTML" expanded="true" />
+            <element signature="e#39878#39884#0#HTML" expanded="true" />
+            <element signature="e#39884#39890#0#HTML" expanded="true" />
+            <element signature="e#40183#40189#0#HTML" expanded="true" />
+            <element signature="e#40337#40343#0#HTML" expanded="true" />
+            <element signature="e#40343#40349#0#HTML" expanded="true" />
+            <element signature="e#41293#41299#0#HTML" expanded="true" />
+            <element signature="e#41299#41305#0#HTML" expanded="true" />
+            <element signature="e#41598#41604#0#HTML" expanded="true" />
+            <element signature="e#41752#41758#0#HTML" expanded="true" />
+            <element signature="e#41758#41764#0#HTML" expanded="true" />
+            <element signature="e#42709#42715#0#HTML" expanded="true" />
+            <element signature="e#42715#42721#0#HTML" expanded="true" />
+            <element signature="e#43016#43022#0#HTML" expanded="true" />
+            <element signature="e#43170#43176#0#HTML" expanded="true" />
+            <element signature="e#43176#43182#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#ins#0;n#div#0;n#div#0;n#div#3;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#52670#52676#0#HTML" expanded="true" />
+            <element signature="e#55605#55611#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#li#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#47#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#649#690#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/templates/weather/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

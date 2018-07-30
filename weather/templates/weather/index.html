@@ -6,8 +6,35 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>WeatherApp</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script>
+        function myFunction() {
+            if (confirm("Permission to read Your Location?")){
+                function ipLookUp() {
+                    $.ajax('http://ip-api.com/json')
+                    .then(
+                        function success(response) {
+                            var city = response.city;
+                            console.log('User\'s City Data is ', city);
+                            $(".input").val(city);
+                            $("form:first").submit();
+                        },
+                        function fail(data, status) {
+                            console.log('Request failed. Returned status of', status);
+                        }
+                );
+            }
+            ipLookUp()
+            }else{}
+        };
+        window.onload=myFunction;
+    </script>
 </head>
 <body>
+
+
     <section class="hero is-primary">
         <div class="hero-body" style="background-color: black">
             <div class="container">
@@ -21,18 +48,14 @@
         <div class="container">
             <div class="columns">
                 <div class="column is-offset-4 is-4">
-                    <form method="POST">
+                    <form id="location" method="post">
                         {% csrf_token %}
-                        <div class="field has-addons">
-                            <div class="control is-expanded">
-                                {{ form.name }}
-                            </div>
-                            <div class="control">
-                                <button class="button is-info">
-                                    Search Weather
-                                </button>
-                            </div>
+                        <div class="form-group">
+                            <label>City Name</label>
+                            {{ form.name }}
                         </div>
+                        <button type="submit" class="btn btn-primary" >Get Weather</button>
+
                     </form>
                 </div>
             </div>

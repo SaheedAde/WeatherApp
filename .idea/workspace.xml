@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97e981d1-ded5-4702-8c96-df7826ff08e9" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app.yml.txt" afterPath="$PROJECT_DIR$/app.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.yml" afterPath="$PROJECT_DIR$/app.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -157,6 +157,7 @@
         <option value="$PROJECT_DIR$/weather/views.py" />
         <option value="$PROJECT_DIR$/weather/templates/weather/js/onload.js" />
         <option value="$PROJECT_DIR$/weather/templates/weather/index.html" />
+        <option value="$PROJECT_DIR$/app.yml" />
       </list>
     </option>
   </component>
@@ -504,7 +505,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="793" y="0" width="814" height="907" extended-state="1" />
+    <frame x="793" y="0" width="814" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41246685" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -646,6 +647,14 @@
           <folding>
             <element signature="n#!!doc;n#myFunction#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>

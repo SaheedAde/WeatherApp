@@ -1,5 +1,6 @@
 from django.shortcuts import render
 import requests
+from django.http import JsonResponse
 from .models import City
 from .forms import CityForm
 
@@ -18,21 +19,25 @@ def index(request):
 
     form = CityForm()
 
-
-
     #request for the city_weather and convert the JSON to dictionary
     city_weather = requests.get(url.format(city)).json()
 
-    #This is the content to parse to templates
-    weather = {
-        'city' : city,
-        'temperature' : city_weather['main']['temp'],
-        'description' : city_weather['weather'][0]['description'],
-        'icon' : city_weather['weather'][0]['icon'],
-    }
+    if city_weather['cod']!='404':
+        #This is the content to parse to templates
+        weather = {
+            'city' : city,
+            'temperature' : city_weather['main']['temp'],
+            'description' : city_weather['weather'][0]['description'],
+            'icon' : city_weather['weather'][0]['icon'],
+        }
+    else:
+        weather = {
+            'message' : str(city)+' is not a valid city name! Enter a valid city name.',
+        }
+        City.objects.latest('id').delete()
 
     #pass weather content into context
-    context = {'weather' : weather, 'form' : form}
+    context = {'weather' : weather, 'form' : form }
 
     #This will return template
     return render(request, 'weather/index.html', context)
